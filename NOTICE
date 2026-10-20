@@ -1,0 +1,21 @@
+# LICENSE NOTICE
+
+## Default License
+Unless otherwise specified, all original files and assets in this repository are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+---
+
+## License Application & Exceptions
+
+### 1. Default & Modified Files (CC BY 4.0)
+The **CC BY 4.0** license applies strictly to:
+* All files in directories/folders that **do NOT contain** an explicit `LICENSE` or `LICENSE.md` file.
+* Any modified, adapted, or derivative files containing `.edited` in their file name or path (e.g., `icon.edited.svg`), regardless of the folder they reside in.
+
+### 2. Third-Party & Directory-Specific Assets
+Certain subdirectories in this repository contain third-party assets subject to their original upstream licenses. 
+* If a directory contains its own `LICENSE` or `LICENSE.md` file, the terms in that file **supersede** the default repository license for all original, unmodified files within that directory.
+
+---
+
+*For full details on CC BY 4.0, see the root `LICENSE` file or visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).*
